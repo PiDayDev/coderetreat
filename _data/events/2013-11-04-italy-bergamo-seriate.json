@@ -1,0 +1,43 @@
+{
+  "title": "XPUGBG - Katurday #6",
+  "format": "classic",
+  "spoken_language": "Italian",
+  "url": "https://www.meetup.com/it-IT/xpugbg/events/296727595/",
+  "date": {
+    "start": "2023-11-04T09:30:00+01:00",
+    "end": "2023-11-04T12:30:00+01:00"
+  },
+  "moderators": [
+    {
+      "name": "Damiano Salvi",
+      "url": "https://github.com/PiDayDev"
+    },
+    {
+      "name": "Emanuele Bassis"
+    },
+    {
+      "name": "Alessandro D'Amico"
+    },
+    {
+      "name": "Fabio Fortini"
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "eXtreme Programming User Group Bergamo",
+      "url": "https://www.meetup.com/it-IT/xpugbg/"
+    },
+    {
+      "name": "Intré SRL",
+      "url": "https://www.intre.it/"
+    }
+  ],
+  "location": {
+    "city": "Seriate",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.68199061788475,
+      "longitude": 9.727849345897429
+    }
+  }
+}
